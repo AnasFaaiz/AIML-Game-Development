@@ -1,5 +1,5 @@
 import heapq
-#heapq -> heap queue algorithm (binery tree)
+#heapq -> heap queue algorithm (binery tree) 
 
 class Node:
     def __init__(self, position, parent=None): #initializing objects
